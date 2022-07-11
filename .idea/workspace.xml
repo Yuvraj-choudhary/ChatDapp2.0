@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4156f60b-0d52-46c1-add3-6c29054e1063" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ChatDapp2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/config/db.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/config/getToken.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controller/chatContoller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controller/userController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middleware/authMiddleWare.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middleware/errorMiddleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/apiRoutes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/chatRoutes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/messageRoutes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/userRoutes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/ChatBox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/Chats.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/context/ChatProvider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BYxOMfWG4jiGssWlrP4NEahkmf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/yuvraj kali/Desktop/ChatDapp2.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false",
+    "ts.external.directory.path": "C:\\Users\\yuvraj kali\\Desktop\\ChatDapp2.0\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="get" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="get" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.get" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4156f60b-0d52-46c1-add3-6c29054e1063" name="Changes" comment="" />
+      <created>1657096798993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657096798993</updated>
+      <workItem from="1657096805624" duration="46000" />
+      <workItem from="1657096872467" duration="4953000" />
+      <workItem from="1657104286970" duration="849000" />
+      <workItem from="1657112718088" duration="405000" />
+      <workItem from="1657272744593" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

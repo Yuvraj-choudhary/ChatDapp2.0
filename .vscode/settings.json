@@ -7,5 +7,12 @@
     "**/.DS_Store": false,
     "**/Thumbs.db": false
   },
-  "explorerExclude.backup": null
+  "explorerExclude.backup": {
+    "**/.git": true,
+    "**/.svn": false,
+    "**/.hg": false,
+    "**/CVS": false,
+    "**/.DS_Store": false,
+    "**/Thumbs.db": false
+  }
 }

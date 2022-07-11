@@ -1,14 +1,13 @@
-/** @type {import('next').NextConfig} */
-module.exports = () => {
-  const rewrites = () => {
+module.exports = {
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  async rewrites() {
     return [
       {
-        source: "/",
-        destination: "http://localhost:8000/",
+        source: "/api/:slug*",
+        destination: "http://127.0.0.1:8000/api/:slug*",
       },
     ];
-  };
-  return {
-    rewrites,
-  };
+  },
 };
